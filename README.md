@@ -1,16 +1,16 @@
 # CoderSchoolPrograms
 Coding examples for the coder school. If anyone wants to code the TODO and submit a pull request feel free. In general, feel free to add to this.
 
-### To Do:
+## To Do:
 
 AI Personal Assistant,
 
 Email Sender
 
 
-### Coded:
+## Coded:
 
-Easy:
+### Easy:
 
 Password Generator,
 
@@ -19,7 +19,7 @@ Harder Password Generator,
 Ciphered Text,
 
 
-Medium:
+### Medium:
 
 Rock, paper, scissors,
 
@@ -34,7 +34,7 @@ Tic-tac-toe with "AI" for a website,
 Text-Based Game,
 
 
-Medium-Hard:
+### Medium-Hard:
 
 Tic-tac-toe minimax algorithm (AI),
 
