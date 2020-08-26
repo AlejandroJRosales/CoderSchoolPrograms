@@ -19,7 +19,6 @@ Harder Password Generator,
 Ciphered Text,
 
 
-
 ### Medium:
 
 Rock, paper, scissors,
@@ -33,7 +32,6 @@ Tic-tac-toe with “AI” (if/then statements),
 Tic-tac-toe with "AI" for a website,
 
 Text-Based Game,
-
 
 
 ### Medium-Hard:
