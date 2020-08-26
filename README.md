@@ -7,6 +7,10 @@ AI Personal Assistant,
 
 Email Sender
 
+Quiz
+
+Calculator
+
 
 ## Coded:
 
