@@ -3,8 +3,6 @@ Coding examples for the coder school. If anyone wants to code the TODO and submi
 
 ## To Do:
 
-AI Personal Assistant,
-
 Email Sender
 
 Quiz
@@ -21,6 +19,8 @@ Password Generator,
 Harder Password Generator,
 
 Ciphered Text,
+
+Personal Assitant
 
 
 ### Medium:
