@@ -7,20 +7,18 @@ Email Sender
 
 Quiz
 
-Calculator
-
 
 ## Coded:
 
 ### Easy:
 
-Password Generator,
+Password Generator (Python),
 
-Harder Password Generator,
+Harder Password Generator (Python),
 
-Ciphered Text,
+Ciphered Text (Python),
 
-Personal Assitant
+Personal Assitant (Python, Java)
 
 
 ### Medium:
