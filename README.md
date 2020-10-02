@@ -18,26 +18,28 @@ Harder Password Generator (Python),
 
 Ciphered Text (Python),
 
-Personal Assitant (Python, Java)
+Personal Assitant (Python),
+
+Calculator (C++)
 
 
 ### Medium:
 
-Rock, paper, scissors,
+Rock, paper, scissors (Python), 
 
-Rock, paper, scissors with loop,
+Rock, paper, scissors with loop (Python),
 
-Fibonacci Series,
+Fibonacci Series (Python),
 
-Tic-tac-toe with “AI” (if/then statements),
+Tic-tac-toe with “AI” (if/then statements) (Python),
 
-Tic-tac-toe with "AI" for a website,
+Tic-tac-toe-tim with "AI" (HTML/CSS),
 
-Text-Based Game,
+Text-Based Game (Python),
 
 
 ### Medium-Hard:
 
-Tic-tac-toe minimax algorithm (AI),
+Tic-tac-toe minimax algorithm (AI) (Python),
 
-8 queens probelm
+8 queens probelm (Python)
